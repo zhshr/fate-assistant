@@ -1,0 +1,8 @@
+div {
+  border: 1px black solid;
+  margin: 10px auto;
+}
+div#MainFrame {  
+  height: 800px;
+  width: 1600px;
+}
